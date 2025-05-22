@@ -2,5 +2,5 @@ Header set Access-Control-Allow-Origin *
 Options +FollowSymLinks
 RewriteEngine on
 
-RewriteRule ^.*$ https://kaivu.github.io/PSR-Action-Ontology/ [R=302,L]
+RewriteRule ^.*$  https://paendul.github.io/Master_Thesis/ [R=302,L]
 
